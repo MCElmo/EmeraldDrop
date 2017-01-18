@@ -1,0 +1,16 @@
+name: EmeraldDrop
+main: me.MC_Elmo.EmeraldDrop.EmeraldDrop
+version: 1.0
+description: Simple plugin to drop emerlds when Villagers die.
+author: MC_Elmo
+
+commands:
+   emeralddrop:
+      description: Reload plugin
+      aliases: [ed]
+      usage: /<command>
+
+permissions:
+   emeralddrop.reload:
+      description: Reload config.
+      default: op

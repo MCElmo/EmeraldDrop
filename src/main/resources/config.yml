@@ -1,0 +1,9 @@
+EmeraldDrop:
+   enabled: true
+   default_drop: 1
+   Advanced Drop:
+      enabled: true
+      drops:
+         - "1:80"
+         - "2:15"
+         - "3:5"
